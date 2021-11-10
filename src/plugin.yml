@@ -1,0 +1,7 @@
+name: MiniGame
+main: main.MainClass
+version: 0.0.1
+commands:
+  mini:
+    usage: "/mini [create / goto / quit / vote]"
+    description: ""
